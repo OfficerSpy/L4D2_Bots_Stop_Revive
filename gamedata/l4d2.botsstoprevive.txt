@@ -1,0 +1,14 @@
+"Games"
+{
+	"left4dead2"
+	{
+		"Offsets"
+		{
+			"CBasePlayer::IsBot"
+			{
+				"windows"	"477"
+				"linux"		"478"
+			}
+		}
+	}
+}
